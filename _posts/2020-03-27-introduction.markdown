@@ -4,7 +4,7 @@ title:  "Introduction to My Thought Process"
 ---
 Before we get started, let me make a small, tiny, teensy little detailed clarification about my stances on things:
 
-* They are welcome to change depending on new data!
+**They are welcome to change depending on new data!**
 
 I do not perceive my stances as being permanent. They are simply the best answers I have come up with so far. That is what being pragmatic allows someone to do - knowing that my position isn't perfect. Knowing that while I do not have a permanent solution to the problem, I am always looking for the answer that offers the best solution right now. 
 
