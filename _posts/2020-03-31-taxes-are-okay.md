@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Taxes are Okay, and We Need Them to Survive."
+categories: [politics, tax]
 ---
 <h2>Tax Rants are better than Tax Cuts</h2>
 
@@ -18,7 +19,7 @@ The problem with that thought process is that it is flawed. Incredibly, absolute
 
 Before I get too much further into the technicalities, it is worth noting that some of you reading this may not know how taxes are actually assessed on your income. To keep the example as simple as possible, think of tax brackets as buckets. The first bracket is the smallest bucket and is taxed at the lowest income tax rate. The buckets and rates get bigger from there. If the first bucket holds $5,000, the next holds $10,000, and so forth, and you made $20,000 one year, then your first $5,000 earned fills up the first bucket and is taxed at the rate associated with that bucket. The next $10,000 fills the second bucket, is taxed at that rate, and whatever is left goes into the next bucket and is taxed at that rate. This means that not all of your income is taxed the same - it's progressively taxed more as you earn more. For those of you that are more visual learners, here is a very simple diagram provided by wrennefinancial.com:
 <center>
-<img src="https://wrennefinancial.com/wp-content/uploads/2019/02/Buckets.png">
+<img src="/images/Buckets.png">
 </center>
 <br />
 Therefore, it stands that if you make more money, you would pay more in taxes, but the first $5,000 you make is taxed the same way as someone who earns less than you do. This also means that if you get a raise, your new additional income either continues to fill up the bucket you were in, or fills it up completely and the extra goes into the next tax bracket. In other words: you don't suddenly earn less than you would have before. With that out of the way, I'll keep going.
@@ -64,9 +65,9 @@ Now, the next logical question to ask is <i>"how much in each category do we spe
 Data from the Office of Management and Budget (OMB) at the White House can be hard to come by. Sites such as <a href="https://www.nationalpriorities.org">nationalpriorities.org</a> collect this data and turn it into easy-to-read graphics. One of their latest works collected data from 2015, when 55% of our spending went to Mandatory categories, and 29% of our spending went to Discretionary spending. Here is a visual breakdown of these categories from that year, provided by the same site:
 <br />
 <center>
-<img class="img.size" src="https://media.nationalpriorities.org/uploads/discretionary_spending_pie%2C_2015_enacted.png" alt="Discretionary Spending breakdown, 2015, National Priorities">
+<img class="img.size" src="/images/discretionary_spending_pie.png" alt="Discretionary Spending breakdown, 2015, National Priorities">
 
-<img class="img.size" src="https://media.nationalpriorities.org/uploads/mandatory_spending_pie%2C__2015_enacted.png" alt="Mandatory Spending breakdown, 2015, National Priorities">
+<img class="img.size" src="/images/mandatory_spending_pie.png" alt="Mandatory Spending breakdown, 2015, National Priorities">
 </center>
 <br />
 
