@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Introduction to My Thought Process"
+categories: [personal, philosophy]
+author: "J.D. Brown"
+permalink: /posts/introduction-to-my-thought-process
 ---
 Before we get started, let me make a small, tiny, teensy little detailed clarification about my stances on things:
 

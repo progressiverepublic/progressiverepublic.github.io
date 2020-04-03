@@ -2,6 +2,8 @@
 layout: post
 title: "Taxes are Okay, and We Need Them to Survive."
 categories: [politics, tax]
+author: "J.D. Brown"
+permalink: /posts/taxes-are-okay
 ---
 <h2>Tax Rants are better than Tax Cuts</h2>
 
